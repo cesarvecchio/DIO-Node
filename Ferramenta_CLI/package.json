@@ -1,0 +1,16 @@
+{
+  "name": "Ferramenta_CLI",
+  "version": "1.0.0",
+  "description": "",
+  "preferGlobal": true,
+  "main": "index.js",
+  "bin": {
+    "search-files": "./bin/search-files-cli"
+  },
+  "files": [
+    "./bin"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
